@@ -1,4 +1,7 @@
-# setup.md
+# Instagram Data Scraper
+
+This project contains two main scripts: `access_token.py` for obtaining an Instagram access token and `insta_scrapper.py` for scraping Instagram data based on specific keywords and hashtags.
+
 
 ### Prerequisites
 
