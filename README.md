@@ -36,7 +36,7 @@ This project contains two main scripts: `access_token.py` for obtaining an Insta
 1. **Clone the Repository:**
     
     ```bash
-    git clone https://github.com/yourusername/instagram-data-scraper.git
+    git clone https://github.com/mubahilll/instagram-data-scraper.git
     cd instagram-data-scraper
     ```
     
